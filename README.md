@@ -22,15 +22,24 @@ I build runs on my own homelab and ships itself through GitHub Actions.
 
 | Project | What it is | Stack | Status |
 |---|---|---|---|
-| **[KanbanAI](https://kanban.okoro.me)** | Kanban board that turns meeting notes into tasks, with an MCP server so AI assistants can work the board | React, TypeScript, Express, PostgreSQL, socket.io, MCP | [![KanbanAI status](https://status.okoro.me/api/badge/ID/status?upLabel=live&downLabel=down&style=flat-square)](https://status.okoro.me) |
-| **[OSINT Scam Analyzer](https://osint.okoro.me)** | Checks emails, domains, phone numbers and crypto wallets against a dozen threat-intel sources and returns one weighted risk score | Next.js, TypeScript, Tailwind | [![OSINT status](https://status.okoro.me/api/badge/ID/status?upLabel=live&downLabel=down&style=flat-square)](https://status.okoro.me) |
-| **[okoro.me](https://okoro.me)** · [source](https://github.com/dan-od/portfolio) | My portfolio as a late-90s desktop: window manager, Start menu, Command Prompt, network map, five card games | React 19, Vite, Vitest | [![okoro.me status](https://status.okoro.me/api/badge/ID/status?upLabel=live&downLabel=down&style=flat-square)](https://status.okoro.me) |
+| **[KanbanAI](https://kanban.okoro.me)** | Kanban board that turns meeting notes into tasks, with an MCP server so AI assistants can work the board | React, TypeScript, Express, PostgreSQL, socket.io, MCP | [Live](https://status.okoro.me) |
+| **[OSINT Scam Analyzer](https://osint.okoro.me)** | Checks emails, domains, phone numbers and crypto wallets against a dozen threat-intel sources and returns one weighted risk score | Next.js, TypeScript, Tailwind | [Live](https://status.okoro.me) |
+| **[okoro.me](https://okoro.me)** · [source](https://github.com/dan-od/portfolio) | My portfolio as a late-90s desktop: window manager, Start menu, Command Prompt, network map, five card games | React 19, Vite, Vitest | [Live](https://status.okoro.me) |
 | **[ConfigRefine](https://configrefine.okoro.me)** | _one line from the ConfigRefine project_ | _stack_ | Live |
 | **Self-hosted homelab** | The infrastructure everything here runs on | Proxmox, pfSense, Docker, Nginx, Cloudflare Tunnel, Tailscale | [status page](https://status.okoro.me) |
 | **SpeedWatch Ontario** | Live road-safety map built after Ontario banned speed cameras; 665k+ Toronto collisions as a heatmap | React, Leaflet, Express, PostgreSQL | Building |
-| **[Pro-Tech Networks](https://protechnetworks.org)** | Company site for an ICT firm in Port Harcourt, Nigeria | Astro, GitHub Actions | [![Pro-Tech status](https://status.okoro.me/api/badge/ID/status?upLabel=live&downLabel=down&style=flat-square)](https://status.okoro.me) |
+| **[Pro-Tech Networks](https://protechnetworks.org)** | Company site for an ICT firm in Port Harcourt, Nigeria | Astro, GitHub Actions | [Live](https://status.okoro.me) |
 | **EMRS** | Equipment and resource management PWA for an oilfield services company | React, Zustand, Express, PostgreSQL | Client |
 | **FGC Upper Room** | Website, WhatsApp bot and QR attendance system for a youth fellowship | React, Express, PostgreSQL, BullMQ | Volunteer |
+
+## Live status
+
+<a href="https://status.okoro.me">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dan-od/dan-od/status-card/status-dark.svg">
+    <img src="https://raw.githubusercontent.com/dan-od/dan-od/status-card/status-light.svg" alt="Live status of the services I host, from status.okoro.me" width="100%">
+  </picture>
+</a>
 
 <details>
 <summary><b>More on KanbanAI</b></summary>
