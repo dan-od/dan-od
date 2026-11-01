@@ -1,4 +1,9 @@
-<a href="https://okoro.me"><img src="https://okoro.me/icons/okoro-lockup.png" alt="okoro.me" height="40"></a>
+<a href="https://okoro.me">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/okoro-horizontal-on-dark.svg">
+    <img src="assets/okoro-horizontal-on-light.svg" alt="okoro.me" height="36">
+  </picture>
+</a>
 
 # Daniel Okoro
 
@@ -11,18 +16,19 @@ I build runs on my own homelab and ships itself through GitHub Actions.
 - Right now: SOC analyst (capstone) for the City of Oshawa, triaging FortiSIEM incidents
 - Open to: co-op, internship and junior roles in security, networking and infrastructure
 - Portfolio: **[okoro.me](https://okoro.me)**, a working retro desktop. Try the Command Prompt.
+- Live status: **[status.okoro.me](https://status.okoro.me)**, uptime for everything I host
 
 ## Projects
 
-| Project | What it is | Stack | |
+| Project | What it is | Stack | Status |
 |---|---|---|---|
-| **[KanbanAI](https://kanban.okoro.me)** | Kanban board that turns meeting notes into tasks, with an MCP server so AI assistants can work the board | React, TypeScript, Express, PostgreSQL, socket.io, MCP | Live |
-| **[OSINT Scam Analyzer](https://osint.okoro.me)** | Checks emails, domains, phone numbers and crypto wallets against a dozen threat-intel sources and returns one weighted risk score | Next.js, TypeScript, Tailwind | Live |
-| **[okoro.me](https://okoro.me)** · [source](https://github.com/dan-od/portfolio) | My portfolio as a late-90s desktop: window manager, Start menu, Command Prompt, network map, five card games | React 19, Vite, Vitest | Live |
+| **[KanbanAI](https://kanban.okoro.me)** | Kanban board that turns meeting notes into tasks, with an MCP server so AI assistants can work the board | React, TypeScript, Express, PostgreSQL, socket.io, MCP | [![KanbanAI status](https://status.okoro.me/api/badge/ID/status?upLabel=live&downLabel=down&style=flat-square)](https://status.okoro.me) |
+| **[OSINT Scam Analyzer](https://osint.okoro.me)** | Checks emails, domains, phone numbers and crypto wallets against a dozen threat-intel sources and returns one weighted risk score | Next.js, TypeScript, Tailwind | [![OSINT status](https://status.okoro.me/api/badge/ID/status?upLabel=live&downLabel=down&style=flat-square)](https://status.okoro.me) |
+| **[okoro.me](https://okoro.me)** · [source](https://github.com/dan-od/portfolio) | My portfolio as a late-90s desktop: window manager, Start menu, Command Prompt, network map, five card games | React 19, Vite, Vitest | [![okoro.me status](https://status.okoro.me/api/badge/ID/status?upLabel=live&downLabel=down&style=flat-square)](https://status.okoro.me) |
 | **[ConfigRefine](https://configrefine.okoro.me)** | _one line from the ConfigRefine project_ | _stack_ | Live |
-| **Self-hosted homelab** | The infrastructure everything here runs on | Proxmox, pfSense, Docker, Nginx, Cloudflare Tunnel, Tailscale | Live |
+| **Self-hosted homelab** | The infrastructure everything here runs on | Proxmox, pfSense, Docker, Nginx, Cloudflare Tunnel, Tailscale | [status page](https://status.okoro.me) |
 | **SpeedWatch Ontario** | Live road-safety map built after Ontario banned speed cameras; 665k+ Toronto collisions as a heatmap | React, Leaflet, Express, PostgreSQL | Building |
-| **[Pro-Tech Networks](https://protechnetworks.org)** | Company site for an ICT firm in Port Harcourt, Nigeria | Astro, GitHub Actions | Client |
+| **[Pro-Tech Networks](https://protechnetworks.org)** | Company site for an ICT firm in Port Harcourt, Nigeria | Astro, GitHub Actions | [![Pro-Tech status](https://status.okoro.me/api/badge/ID/status?upLabel=live&downLabel=down&style=flat-square)](https://status.okoro.me) |
 | **EMRS** | Equipment and resource management PWA for an oilfield services company | React, Zustand, Express, PostgreSQL | Client |
 | **FGC Upper Room** | Website, WhatsApp bot and QR attendance system for a youth fellowship | React, Express, PostgreSQL, BullMQ | Volunteer |
 
@@ -49,7 +55,9 @@ I build runs on my own homelab and ships itself through GitHub Actions.
 - Push-to-deploy: GitHub Actions joins my tailnet as an ephemeral, tagged node, builds,
   then rsyncs or runs `docker compose`, and checks the site answers before finishing
 - Each client project runs as its own isolated compose stack; only its nginx touches the public network
-- Also runs AdGuard Home, Nextcloud, Immich, Home Assistant and Uptime Kuma
+- Monitored by Uptime Kuma with a public page at [status.okoro.me](https://status.okoro.me);
+  the tunnel only exposes the status page, so the admin login isn't reachable from the internet
+- Also runs AdGuard Home, Nextcloud, Immich, Home Assistant and more
 
 </details>
 
