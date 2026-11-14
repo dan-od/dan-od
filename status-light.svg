@@ -1,0 +1,397 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="654" viewBox="0 0 880 654" font-family="Arial, Helvetica, sans-serif">
+  <title>Live status from status.okoro.me</title>
+  <rect x="18" y="14" width="844" height="624" rx="14" fill="rgba(0,0,0,0.06)"/>
+  <rect x="20" y="12" width="840" height="624" rx="12" fill="#ffffff" stroke="#e7eaee"/>
+  <g>
+    <rect x="32" y="34" width="61.9" height="20" rx="10" fill="#5cdd8b"/>
+    <text x="63.0" y="48" font-size="12" font-weight="700" fill="#fff" text-anchor="middle">99.14%</text>
+    <text x="101.9" y="49" font-size="15" fill="#212529" text-decoration="underline">okoro.me</text>
+    <rect x="32.0" y="61" width="146.7" height="18" rx="6" fill="#D97706"/>
+    <text x="39.0" y="74" font-size="11" fill="#fff">Personal: Portfolio Website</text>
+    <rect x="563" y="34" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="571" y="34" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="579" y="34" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="587" y="34" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="595" y="34" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="603" y="34" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="611" y="34" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="619" y="34" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="627" y="34" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="635" y="34" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="643" y="34" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="651" y="34" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="659" y="34" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="667" y="34" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="675" y="34" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="683" y="34" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="691" y="34" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="699" y="34" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="707" y="34" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="715" y="34" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="723" y="34" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="731" y="34" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="739" y="34" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="747" y="34" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="755" y="34" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="763" y="34" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="771" y="34" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="779" y="34" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="787" y="34" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="795" y="34" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="803" y="34" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="811" y="34" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="819" y="34" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="827" y="34" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="835" y="34" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="843" y="34" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <text x="563" y="69" font-size="11" fill="#8c96a0">36m ago</text>
+    <text x="848" y="69" font-size="11" fill="#8c96a0" text-anchor="end">now</text>
+    <rect x="32" y="98" width="61.9" height="20" rx="10" fill="#5cdd8b"/>
+    <text x="63.0" y="112" font-size="12" font-weight="700" fill="#fff" text-anchor="middle">99.14%</text>
+    <text x="101.9" y="113" font-size="15" fill="#212529" text-decoration="underline">protechnetworks.org</text>
+    <rect x="32.0" y="125" width="42.1" height="18" rx="6" fill="#DC2626"/>
+    <text x="39.0" y="138" font-size="11" fill="#fff">Client</text>
+    <rect x="563" y="98" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="571" y="98" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="579" y="98" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="587" y="98" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="595" y="98" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="603" y="98" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="611" y="98" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="619" y="98" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="627" y="98" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="635" y="98" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="643" y="98" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="651" y="98" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="659" y="98" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="667" y="98" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="675" y="98" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="683" y="98" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="691" y="98" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="699" y="98" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="707" y="98" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="715" y="98" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="723" y="98" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="731" y="98" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="739" y="98" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="747" y="98" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="755" y="98" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="763" y="98" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="771" y="98" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="779" y="98" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="787" y="98" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="795" y="98" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="803" y="98" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="811" y="98" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="819" y="98" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="827" y="98" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="835" y="98" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="843" y="98" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <text x="563" y="133" font-size="11" fill="#8c96a0">36m ago</text>
+    <text x="848" y="133" font-size="11" fill="#8c96a0" text-anchor="end">now</text>
+    <rect x="32" y="162" width="61.9" height="20" rx="10" fill="#5cdd8b"/>
+    <text x="63.0" y="176" font-size="12" font-weight="700" fill="#fff" text-anchor="middle">99.93%</text>
+    <text x="101.9" y="177" font-size="15" fill="#212529" text-decoration="underline">verdantmighty.com</text>
+    <rect x="32.0" y="189" width="42.1" height="18" rx="6" fill="#DC2626"/>
+    <text x="39.0" y="202" font-size="11" fill="#fff">Client</text>
+    <rect x="563" y="162" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="571" y="162" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="579" y="162" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="587" y="162" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="595" y="162" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="603" y="162" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="611" y="162" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="619" y="162" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="627" y="162" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="635" y="162" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="643" y="162" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="651" y="162" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="659" y="162" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="667" y="162" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="675" y="162" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="683" y="162" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="691" y="162" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="699" y="162" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="707" y="162" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="715" y="162" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="723" y="162" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="731" y="162" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="739" y="162" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="747" y="162" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="755" y="162" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="763" y="162" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="771" y="162" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="779" y="162" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="787" y="162" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="795" y="162" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="803" y="162" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="811" y="162" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="819" y="162" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="827" y="162" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="835" y="162" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="843" y="162" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <text x="563" y="197" font-size="11" fill="#8c96a0">35m ago</text>
+    <text x="848" y="197" font-size="11" fill="#8c96a0" text-anchor="end">now</text>
+    <rect x="32" y="226" width="61.9" height="20" rx="10" fill="#5cdd8b"/>
+    <text x="63.0" y="240" font-size="12" font-weight="700" fill="#fff" text-anchor="middle">99.14%</text>
+    <text x="101.9" y="241" font-size="15" fill="#212529" text-decoration="underline">excelamadi.com</text>
+    <rect x="32.0" y="253" width="42.1" height="18" rx="6" fill="#DC2626"/>
+    <text x="39.0" y="266" font-size="11" fill="#fff">Client</text>
+    <rect x="563" y="226" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="571" y="226" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="579" y="226" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="587" y="226" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="595" y="226" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="603" y="226" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="611" y="226" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="619" y="226" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="627" y="226" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="635" y="226" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="643" y="226" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="651" y="226" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="659" y="226" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="667" y="226" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="675" y="226" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="683" y="226" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="691" y="226" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="699" y="226" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="707" y="226" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="715" y="226" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="723" y="226" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="731" y="226" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="739" y="226" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="747" y="226" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="755" y="226" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="763" y="226" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="771" y="226" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="779" y="226" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="787" y="226" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="795" y="226" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="803" y="226" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="811" y="226" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="819" y="226" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="827" y="226" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="835" y="226" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="843" y="226" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <text x="563" y="261" font-size="11" fill="#8c96a0">36m ago</text>
+    <text x="848" y="261" font-size="11" fill="#8c96a0" text-anchor="end">now</text>
+    <rect x="32" y="290" width="61.9" height="20" rx="10" fill="#5cdd8b"/>
+    <text x="63.0" y="304" font-size="12" font-weight="700" fill="#fff" text-anchor="middle">99.19%</text>
+    <text x="101.9" y="305" font-size="15" fill="#212529">events.verdantmighty.com (site)</text>
+    <rect x="32.0" y="317" width="42.1" height="18" rx="6" fill="#DC2626"/>
+    <text x="39.0" y="330" font-size="11" fill="#fff">Client</text>
+    <rect x="563" y="290" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="571" y="290" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="579" y="290" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="587" y="290" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="595" y="290" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="603" y="290" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="611" y="290" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="619" y="290" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="627" y="290" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="635" y="290" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="643" y="290" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="651" y="290" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="659" y="290" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="667" y="290" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="675" y="290" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="683" y="290" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="691" y="290" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="699" y="290" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="707" y="290" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="715" y="290" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="723" y="290" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="731" y="290" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="739" y="290" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="747" y="290" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="755" y="290" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="763" y="290" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="771" y="290" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="779" y="290" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="787" y="290" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="795" y="290" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="803" y="290" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="811" y="290" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="819" y="290" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="827" y="290" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="835" y="290" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="843" y="290" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <text x="563" y="325" font-size="11" fill="#8c96a0">36m ago</text>
+    <text x="848" y="325" font-size="11" fill="#8c96a0" text-anchor="end">now</text>
+    <rect x="32" y="354" width="61.9" height="20" rx="10" fill="#5cdd8b"/>
+    <text x="63.0" y="368" font-size="12" font-weight="700" fill="#fff" text-anchor="middle">99.12%</text>
+    <text x="101.9" y="369" font-size="15" fill="#212529">daq.okoro.me</text>
+    <rect x="32.0" y="381" width="42.1" height="18" rx="6" fill="#DC2626"/>
+    <text x="39.0" y="394" font-size="11" fill="#fff">Client</text>
+    <rect x="563" y="354" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="571" y="354" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="579" y="354" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="587" y="354" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="595" y="354" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="603" y="354" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="611" y="354" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="619" y="354" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="627" y="354" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="635" y="354" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="643" y="354" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="651" y="354" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="659" y="354" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="667" y="354" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="675" y="354" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="683" y="354" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="691" y="354" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="699" y="354" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="707" y="354" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="715" y="354" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="723" y="354" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="731" y="354" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="739" y="354" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="747" y="354" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="755" y="354" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="763" y="354" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="771" y="354" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="779" y="354" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="787" y="354" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="795" y="354" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="803" y="354" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="811" y="354" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="819" y="354" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="827" y="354" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="835" y="354" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="843" y="354" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <text x="563" y="389" font-size="11" fill="#8c96a0">36m ago</text>
+    <text x="848" y="389" font-size="11" fill="#8c96a0" text-anchor="end">now</text>
+    <rect x="32" y="418" width="61.9" height="20" rx="10" fill="#5cdd8b"/>
+    <text x="63.0" y="432" font-size="12" font-weight="700" fill="#fff" text-anchor="middle">99.07%</text>
+    <text x="101.9" y="433" font-size="15" fill="#212529" text-decoration="underline">osint.okoro.me</text>
+    <rect x="32.0" y="445" width="57.4" height="18" rx="6" fill="#D97706"/>
+    <text x="39.0" y="458" font-size="11" fill="#fff">Personal</text>
+    <rect x="95.4" y="445" width="40.9" height="18" rx="6" fill="#059669"/>
+    <text x="102.4" y="458" font-size="11" fill="#fff">Tools</text>
+    <rect x="563" y="418" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="571" y="418" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="579" y="418" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="587" y="418" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="595" y="418" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="603" y="418" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="611" y="418" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="619" y="418" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="627" y="418" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="635" y="418" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="643" y="418" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="651" y="418" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="659" y="418" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="667" y="418" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="675" y="418" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="683" y="418" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="691" y="418" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="699" y="418" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="707" y="418" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="715" y="418" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="723" y="418" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="731" y="418" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="739" y="418" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="747" y="418" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="755" y="418" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="763" y="418" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="771" y="418" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="779" y="418" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="787" y="418" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="795" y="418" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="803" y="418" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="811" y="418" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="819" y="418" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="827" y="418" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="835" y="418" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="843" y="418" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <text x="563" y="453" font-size="11" fill="#8c96a0">35m ago</text>
+    <text x="848" y="453" font-size="11" fill="#8c96a0" text-anchor="end">now</text>
+    <rect x="32" y="482" width="61.9" height="20" rx="10" fill="#5cdd8b"/>
+    <text x="63.0" y="496" font-size="12" font-weight="700" fill="#fff" text-anchor="middle">99.05%</text>
+    <text x="101.9" y="497" font-size="15" fill="#212529" text-decoration="underline">tripnest.okoro.me</text>
+    <rect x="32.0" y="509" width="84.9" height="18" rx="6" fill="#2563EB"/>
+    <text x="39.0" y="522" font-size="11" fill="#fff">School Project</text>
+    <rect x="563" y="482" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="571" y="482" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="579" y="482" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="587" y="482" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="595" y="482" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="603" y="482" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="611" y="482" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="619" y="482" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="627" y="482" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="635" y="482" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="643" y="482" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="651" y="482" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="659" y="482" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="667" y="482" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="675" y="482" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="683" y="482" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="691" y="482" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="699" y="482" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="707" y="482" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="715" y="482" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="723" y="482" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="731" y="482" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="739" y="482" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="747" y="482" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="755" y="482" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="763" y="482" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="771" y="482" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="779" y="482" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="787" y="482" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="795" y="482" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="803" y="482" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="811" y="482" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="819" y="482" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="827" y="482" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="835" y="482" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="843" y="482" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <text x="563" y="517" font-size="11" fill="#8c96a0">36m ago</text>
+    <text x="848" y="517" font-size="11" fill="#8c96a0" text-anchor="end">now</text>
+    <rect x="32" y="546" width="61.9" height="20" rx="10" fill="#5cdd8b"/>
+    <text x="63.0" y="560" font-size="12" font-weight="700" fill="#fff" text-anchor="middle">99.07%</text>
+    <text x="101.9" y="561" font-size="15" fill="#212529" text-decoration="underline">kanban.okoro.me</text>
+    <rect x="32.0" y="573" width="235.9" height="18" rx="6" fill="#059669"/>
+    <text x="39.0" y="586" font-size="11" fill="#fff">Tools: Custom Kanban for managing Projects</text>
+    <rect x="563" y="546" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="571" y="546" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="579" y="546" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="587" y="546" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="595" y="546" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="603" y="546" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="611" y="546" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="619" y="546" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="627" y="546" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="635" y="546" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="643" y="546" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="651" y="546" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="659" y="546" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="667" y="546" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="675" y="546" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="683" y="546" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="691" y="546" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="699" y="546" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="707" y="546" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="715" y="546" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="723" y="546" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="731" y="546" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="739" y="546" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="747" y="546" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="755" y="546" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="763" y="546" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="771" y="546" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="779" y="546" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="787" y="546" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="795" y="546" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="803" y="546" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="811" y="546" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="819" y="546" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="827" y="546" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="835" y="546" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <rect x="843" y="546" width="5" height="18" rx="2.5" fill="#5cdd8b"/>
+    <text x="563" y="581" font-size="11" fill="#8c96a0">36m ago</text>
+    <text x="848" y="581" font-size="11" fill="#8c96a0" text-anchor="end">now</text>
+  </g>
+  <text x="848" y="624" font-size="11" fill="#8c96a0" text-anchor="end">Updated Nov 14, 11:41 a.m. EST · status.okoro.me</text>
+</svg>
